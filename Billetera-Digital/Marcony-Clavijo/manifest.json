@@ -1,0 +1,15 @@
+{
+  "name": "Billetera Digital Marcony Clavijo",
+  "short_name": "Billetera Marcony",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10131a",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "perfil.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
